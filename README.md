@@ -1,6 +1,7 @@
+![MasterHead](https://imgs.search.brave.com/y9zcbAaPvMXMEEJUb3TMlPSHb46F5F9_no9Rq6aFVIk/rs:fit:1200:732:1/g:ce/aHR0cHM6Ly9jZG4y/LmYtY2RuLmNvbS9m/aWxlcy9kb3dubG9h/ZC8xMTc2NTc0NDkv/Yjk1MjVlLmpwZw)
 <h1 align="center">Hi 👋, I'm Yash Mandlekar</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img src="https://i.gifer.com/RC1A.mp4" >
+<img align="center" alt="Coding" width="400" src="https://imgs.search.brave.com/uiNlf5UQHSFtTLeTYSKhdobQOsSRKlk50W-FMjArakg/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzI0MDEx/NDEvc2NyZWVuc2hv/dHMvNTQ4Nzk4Mi9k/ZXZlbG9wZXJzLWdp/Zi1zaG93Y2FzZS5n/aWY.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-mandlekar&label=Profile%20views&color=0e75b6&style=flat" alt="yash-mandlekar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-mandlekar" alt="yash-mandlekar" /></a> </p>
