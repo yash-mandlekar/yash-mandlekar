@@ -19,7 +19,7 @@
 <a href="https://twitter.com/mandlekaryash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mandlekaryash" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yash-mandlekar-9a974421b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-mandlekar-9a974421b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17836813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17836813" height="30" width="40" /></a>
-<a href="https://fb.com/yash mandlekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yash mandlekar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100008677567868" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yash mandlekar" height="30" width="40" /></a>
 <a href="https://instagram.com/_yxshh_._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_yxshh_._" height="30" width="40" /></a>
 </p>
 
