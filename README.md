@@ -4,8 +4,6 @@
 <img align="center" alt="Coding" width="400" src="https://imgs.search.brave.com/uiNlf5UQHSFtTLeTYSKhdobQOsSRKlk50W-FMjArakg/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzI0MDEx/NDEvc2NyZWVuc2hv/dHMvNTQ4Nzk4Mi9k/ZXZlbG9wZXJzLWdp/Zi1zaG93Y2FzZS5n/aWY.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-mandlekar&label=Profile%20views&color=0e75b6&style=flat" alt="yash-mandlekar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-mandlekar" alt="yash-mandlekar" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/mandlekaryash" target="blank"><img src="https://img.shields.io/twitter/follow/mandlekaryash?logo=twitter&style=for-the-badge" alt="mandlekaryash" /></a> </p>
 
 - 🔭 I’m currently working on Fullstack Web Development
