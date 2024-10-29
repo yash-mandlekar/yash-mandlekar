@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mandlekaryash" target="blank"><img src="https://img.shields.io/twitter/follow/mandlekaryash?logo=twitter&style=for-the-badge" alt="mandlekaryash" /></a> </p>
 
+
 - 🔭 I’m currently working on Fullstack Web Development
 
 - 💬 Ask me about **react**
@@ -24,6 +25,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=yash-mandlekar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yash-mandlekar&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yash-mandlekar&theme=radical&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=yash-mandlekar&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-mandlekar&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
